@@ -1,0 +1,47 @@
+:root{
+    /* палитра */
+
+    --main-text-color: #757575;
+    --secondary-text-color: #212121;
+    --accented-color: #2196F3;
+    --background-color: ##E5E5E5;
+    --secondary-background-color: #F5F4FA;
+
+
+}
+
+/* общие элементы */
+body{
+    font-family: Roboto, sans-serif ; 
+    background-color: #ffffff;
+    color: #757575;
+}
+
+/* лого */
+.logo{
+    text-decoration: none;
+
+}
+.logo-blue{
+    color: #2196F3;
+}
+.logo-black{
+
+}
+
+
+
+
+
+
+.benefits{
+    background-color: var(--background-color);
+}
+.team{
+    background-color: var(--secondary-background-color);
+
+}
+
+
+
+
